@@ -1,0 +1,11 @@
+{
+    id: terra,
+    mcVersion: 1.12.2,
+    title: Terra,
+    version: 0.0.0,
+    icon: "C:\\Projects\\Modpacks\\Terra\\icon.png",
+    authors: [
+        eric
+    ],
+    forge: 2814
+}
