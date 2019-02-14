@@ -1,18 +1,10 @@
+import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
+
 plugins {
     id("voodoo") version "0.4.6-SNAPSHOT"
 }
 
 voodoo {
-
-// for configuration of folders
-// these are the defaults
-
-//    rootDir { project.rootDir }
-//    generatedSource { rootDir -> rootDir.resolve(".voodoo") }
-//    packDirectory { ootDir -> rootDir.resolve("packs") }
-//    docDirectory { project.rootDir.resolve("docs") }
-
-// task shorthands
     addTask(name = "buildPack", parameters = listOf("build"))
     addTask(name = "packServer", parameters = listOf("pack server"))
     addTask(name = "testMMC", parameters = listOf("test mmc"))
@@ -39,4 +31,11 @@ repositories {
 dependencies {
     implementation(group = "moe.nikky.voodoo", name = "dsl", version = "0.4.6+")
     implementation(group = "moe.nikky.voodoo", name = "voodoo", version = "0.4.6+")
+}
+
+tasks.named<KotlinCompile>("compileKotlin") {
+    kotlinOptions {
+        jvmTarget = "1.8"
+        javaParameters = true
+    }
 }

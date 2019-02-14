@@ -1,0 +1,12 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            applied-energistics-2,
+            p455w0rds-library,
+            ae2-wireless-terminal-library
+        ]
+    },
+    projectID: 244559,
+    fileID: 2654188
+}

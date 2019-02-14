@@ -1,0 +1,11 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            ender-io,
+            thermalexpansion
+        ]
+    },
+    projectID: 232391,
+    fileID: 2602660
+}

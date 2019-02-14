@@ -1,0 +1,5 @@
+tutorial_step=none
+guiScale:3
+bobView:false
+autoJump:false
+gamma:1.0

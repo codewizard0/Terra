@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            bdlib
+        ]
+    },
+    projectID: 223622,
+    fileID: 2516219
+}

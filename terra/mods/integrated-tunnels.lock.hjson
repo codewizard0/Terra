@@ -1,0 +1,11 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            cyclops-core,
+            integrated-dynamics
+        ]
+    },
+    projectID: 251389,
+    fileID: 2671507
+}

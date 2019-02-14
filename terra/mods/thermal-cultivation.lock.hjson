@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            thermal-foundation
+        ]
+    },
+    projectID: 271835,
+    fileID: 2669255
+}

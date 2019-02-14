@@ -1,0 +1,11 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            tinkers-construct,
+            mantle
+        ]
+    },
+    projectID: 260327,
+    fileID: 2673921
+}

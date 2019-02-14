@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            thermal-dynamics
+        ]
+    },
+    projectID: 313298,
+    fileID: 2671030
+}

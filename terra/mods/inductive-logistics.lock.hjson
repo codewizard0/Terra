@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            cd4017be-library
+        ]
+    },
+    projectID: 279053,
+    fileID: 2664429
+}

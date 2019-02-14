@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            wanionlib
+        ]
+    },
+    projectID: 244258,
+    fileID: 2652588
+}

@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            cxlibrary
+        ]
+    },
+    projectID: 78320,
+    fileID: 2627678
+}

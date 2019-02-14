@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            ceramics
+        ]
+    },
+    projectID: 303857,
+    fileID: 2664966
+}

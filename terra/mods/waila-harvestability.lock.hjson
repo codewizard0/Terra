@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            hwyla
+        ]
+    },
+    projectID: 79287,
+    fileID: 2481605
+}

@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            cofhcore
+        ]
+    },
+    projectID: 70631,
+    fileID: 2669254
+}

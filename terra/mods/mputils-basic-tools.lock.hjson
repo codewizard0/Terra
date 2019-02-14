@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            mputils
+        ]
+    },
+    projectID: 245889,
+    fileID: 2633211
+}

@@ -1,0 +1,12 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            cyclops-core,
+            integrated-dynamics,
+            integrated-tunnels
+        ]
+    },
+    projectID: 295910,
+    fileID: 2670771
+}

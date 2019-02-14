@@ -1,0 +1,11 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            bdlib,
+            applied-energistics-2
+        ]
+    },
+    projectID: 225194,
+    fileID: 2491032
+}

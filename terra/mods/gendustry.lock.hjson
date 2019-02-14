@@ -1,0 +1,11 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            forestry,
+            bdlib
+        ]
+    },
+    projectID: 70492,
+    fileID: 2516215
+}

@@ -1,0 +1,11 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            applied-energistics-2,
+            p455w0rds-library
+        ]
+    },
+    projectID: 304024,
+    fileID: 2653753
+}

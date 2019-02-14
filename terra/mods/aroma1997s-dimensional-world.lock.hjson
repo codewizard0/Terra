@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            aroma1997core
+        ]
+    },
+    projectID: 60092,
+    fileID: 2672438
+}

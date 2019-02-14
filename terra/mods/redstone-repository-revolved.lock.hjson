@@ -1,0 +1,14 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            cofhcore,
+            thermalexpansion,
+            redstone-arsenal,
+            thermal-foundation,
+            baubles
+        ]
+    },
+    projectID: 300750,
+    fileID: 2602841
+}

@@ -1,0 +1,11 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            codechicken-lib-1-8,
+            p455w0rds-library
+        ]
+    },
+    projectID: 272514,
+    fileID: 2659000
+}

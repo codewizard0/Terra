@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            mcmultipart
+        ]
+    },
+    projectID: 301854,
+    fileID: 2645197
+}

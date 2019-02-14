@@ -1,0 +1,11 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            sonar-core,
+            mcmultipart
+        ]
+    },
+    projectID: 263048,
+    fileID: 2643354
+}

@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            lunatriuscore
+        ]
+    },
+    projectID: 225606,
+    fileID: 2489553
+}

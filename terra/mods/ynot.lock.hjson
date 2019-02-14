@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            xnet
+        ]
+    },
+    projectID: 283589,
+    fileID: 2573281
+}

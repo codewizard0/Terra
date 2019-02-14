@@ -1,0 +1,10 @@
+{
+    provider: CURSE,
+    dependencies: {
+        REQUIRED: [
+            industrial-foregoing
+        ]
+    },
+    projectID: 277938,
+    fileID: 2654129
+}
